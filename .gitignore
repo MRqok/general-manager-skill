@@ -1,0 +1,11 @@
+# 运行时产物（skill 本身不提交）
+成果/
+总经理交付报告.md
+工作包*.md
+
+# 编辑器 / 系统
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.log
